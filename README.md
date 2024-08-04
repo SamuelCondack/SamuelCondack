@@ -12,5 +12,5 @@ JavaScript, HTML, CSS, React, TypeScript, Node.js, SCSS/SASS, Figma, Webpack, Ba
 Problem-solving, excellent communication, collaborative team player, eager to learn.
 
 ## Get in touch
-• LinkedIn: https://linkedin.com/in/samuelcondack
-• Email: samuelcondackxz@gmail.com
+- LinkedIn: https://linkedin.com/in/samuelcondack
+- Email: samuelcondackxz@gmail.com
