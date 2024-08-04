@@ -1,3 +1,5 @@
+## Samuel de Araújo Condack - @SamuelCondack
+
 Hi, I'm Samuel - a front-end developer with 1+ year of experience in web development. I'm currently pursuing a Bachelor's degree in Software Engineering at International University Center UNINTER.
 
 I have hands-on experience in developing and optimizing web applications and responsive designs using cutting-edge technologies like JavaScript, HTML, CSS, React, TypeScript, Node.js, SCSS/SASS, Figma, Webpack, Babel, and Git.
