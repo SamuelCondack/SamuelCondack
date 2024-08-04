@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Samuel - a front-end developer with 1+ year of experience in web development. I'm currently pursuing a Bachelor's degree in Software Engineering at International University Center UNINTER.
 
-<!--
-**SamuelCondack/SamuelCondack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have hands-on experience in developing and optimizing web applications and responsive designs using cutting-edge technologies like JavaScript, HTML, CSS, React, TypeScript, Node.js, SCSS/SASS, Figma, Webpack, Babel, and Git.
+I'm comfortable working remotely, have excellent time management skills, and enjoy automating repetitive tasks to improve efficiency. I thrive in collaborative environments and am always eager to learn and implement new technologies.
 
-Here are some ideas to get you started:
+My Tech Stack
+JavaScript, HTML, CSS, React, TypeScript, Node.js, SCSS/SASS, Figma, Webpack, Babel, Git, REST API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some Soft skills
+Problem-solving, excellent communication, collaborative team player, eager to learn.
+
+Get in touch
+LinkedIn: https://linkedin.com/in/samuelcondack
+Email: samuelcondackxz@gmail.com
