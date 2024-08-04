@@ -11,6 +11,6 @@ JavaScript, HTML, CSS, React, TypeScript, Node.js, SCSS/SASS, Figma, Webpack, Ba
 ## Some Soft skills
 Problem-solving, excellent communication, collaborative team player, eager to learn.
 
-Get in touch
+## Get in touch
 LinkedIn: https://linkedin.com/in/samuelcondack
 Email: samuelcondackxz@gmail.com
