@@ -5,10 +5,10 @@ Hi, I'm Samuel - a front-end developer with 1+ year of experience in web develop
 I have hands-on experience in developing and optimizing web applications and responsive designs using cutting-edge technologies like JavaScript, HTML, CSS, React, TypeScript, Node.js, SCSS/SASS, Figma, Webpack, Babel, and Git.
 I'm comfortable working remotely, have excellent time management skills, and enjoy automating repetitive tasks to improve efficiency. I thrive in collaborative environments and am always eager to learn and implement new technologies.
 
-My Tech Stack
+## My Tech Stack
 JavaScript, HTML, CSS, React, TypeScript, Node.js, SCSS/SASS, Figma, Webpack, Babel, Git, REST API.
 
-Some Soft skills
+## Some Soft skills
 Problem-solving, excellent communication, collaborative team player, eager to learn.
 
 Get in touch
